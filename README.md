@@ -414,7 +414,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- 📧 Email: support@foodrescue.com
+- 📧 Email: ashokmohanta2405@gmail.com
 - 💬 GitHub Discussions: [Link to discussions]
 - 📖 Documentation: [Link to docs]
 - 🐛 Bug Reports: [Link to issues]
